@@ -13,6 +13,18 @@
 		F630801F1B8D0C7B00325E51 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F630801E1B8D0C7B00325E51 /* Images.xcassets */; };
 		F63080221B8D0C7B00325E51 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F63080201B8D0C7B00325E51 /* LaunchScreen.xib */; };
 		F630802E1B8D0C7B00325E51 /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630802D1B8D0C7B00325E51 /* TestTests.swift */; };
+		F63080381B8D10B900325E51 /* FlightSnippet.xib in Resources */ = {isa = PBXBuildFile; fileRef = F63080371B8D10B900325E51 /* FlightSnippet.xib */; };
+		F630803A1B8D14EF00325E51 /* FlightSnippet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63080391B8D14EF00325E51 /* FlightSnippet.swift */; };
+		F630803C1B8D210D00325E51 /* airport10.png in Resources */ = {isa = PBXBuildFile; fileRef = F630803B1B8D210D00325E51 /* airport10.png */; };
+		F630803E1B8D262300325E51 /* rsz_canadian-airlines.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F630803D1B8D262300325E51 /* rsz_canadian-airlines.jpg */; };
+		F63080401B8D4FB800325E51 /* clock97.png in Resources */ = {isa = PBXBuildFile; fileRef = F630803F1B8D4FB700325E51 /* clock97.png */; };
+		F63080421B8DF03A00325E51 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63080411B8DF03A00325E51 /* CustomButton.swift */; };
+		F63080441B8DF04E00325E51 /* CustomButton.xib in Resources */ = {isa = PBXBuildFile; fileRef = F63080431B8DF04E00325E51 /* CustomButton.xib */; };
+		F63080481B8DF1B700325E51 /* arrow158-2.png in Resources */ = {isa = PBXBuildFile; fileRef = F63080471B8DF1B700325E51 /* arrow158-2.png */; };
+		F630804A1B8E17DA00325E51 /* DetailSnippet.xib in Resources */ = {isa = PBXBuildFile; fileRef = F63080491B8E17DA00325E51 /* DetailSnippet.xib */; };
+		F630804C1B8E1E6800325E51 /* DetailSnippet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630804B1B8E1E6800325E51 /* DetailSnippet.swift */; };
+		F63080501B8E23FC00325E51 /* 025d15ac-9c17-4ef6-9931-26cd3d9dde50.png in Resources */ = {isa = PBXBuildFile; fileRef = F630804F1B8E23FC00325E51 /* 025d15ac-9c17-4ef6-9931-26cd3d9dde50.png */; };
+		F63080521B8E251C00325E51 /* restaurant66.png in Resources */ = {isa = PBXBuildFile; fileRef = F63080511B8E251C00325E51 /* restaurant66.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +48,18 @@
 		F63080271B8D0C7B00325E51 /* TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F630802C1B8D0C7B00325E51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F630802D1B8D0C7B00325E51 /* TestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTests.swift; sourceTree = "<group>"; };
+		F63080371B8D10B900325E51 /* FlightSnippet.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FlightSnippet.xib; sourceTree = "<group>"; };
+		F63080391B8D14EF00325E51 /* FlightSnippet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightSnippet.swift; sourceTree = "<group>"; };
+		F630803B1B8D210D00325E51 /* airport10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = airport10.png; sourceTree = "<group>"; };
+		F630803D1B8D262300325E51 /* rsz_canadian-airlines.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rsz_canadian-airlines.jpg"; sourceTree = "<group>"; };
+		F630803F1B8D4FB700325E51 /* clock97.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clock97.png; sourceTree = "<group>"; };
+		F63080411B8DF03A00325E51 /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		F63080431B8DF04E00325E51 /* CustomButton.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomButton.xib; sourceTree = "<group>"; };
+		F63080471B8DF1B700325E51 /* arrow158-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow158-2.png"; sourceTree = "<group>"; };
+		F63080491B8E17DA00325E51 /* DetailSnippet.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailSnippet.xib; sourceTree = "<group>"; };
+		F630804B1B8E1E6800325E51 /* DetailSnippet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailSnippet.swift; sourceTree = "<group>"; };
+		F630804F1B8E23FC00325E51 /* 025d15ac-9c17-4ef6-9931-26cd3d9dde50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "025d15ac-9c17-4ef6-9931-26cd3d9dde50.png"; sourceTree = "<group>"; };
+		F63080511B8E251C00325E51 /* restaurant66.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = restaurant66.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,9 +101,16 @@
 		F63080141B8D0C7B00325E51 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				F63080531B8E358900325E51 /* icons */,
 				F63080171B8D0C7B00325E51 /* AppDelegate.swift */,
 				F63080191B8D0C7B00325E51 /* ViewController.swift */,
+				F63080371B8D10B900325E51 /* FlightSnippet.xib */,
+				F63080391B8D14EF00325E51 /* FlightSnippet.swift */,
 				F630801B1B8D0C7B00325E51 /* Main.storyboard */,
+				F63080411B8DF03A00325E51 /* CustomButton.swift */,
+				F63080491B8E17DA00325E51 /* DetailSnippet.xib */,
+				F630804B1B8E1E6800325E51 /* DetailSnippet.swift */,
+				F63080431B8DF04E00325E51 /* CustomButton.xib */,
 				F630801E1B8D0C7B00325E51 /* Images.xcassets */,
 				F63080201B8D0C7B00325E51 /* LaunchScreen.xib */,
 				F63080151B8D0C7B00325E51 /* Supporting Files */,
@@ -110,6 +141,19 @@
 				F630802C1B8D0C7B00325E51 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F63080531B8E358900325E51 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				F630803F1B8D4FB700325E51 /* clock97.png */,
+				F63080511B8E251C00325E51 /* restaurant66.png */,
+				F63080471B8DF1B700325E51 /* arrow158-2.png */,
+				F630804F1B8E23FC00325E51 /* 025d15ac-9c17-4ef6-9931-26cd3d9dde50.png */,
+				F630803D1B8D262300325E51 /* rsz_canadian-airlines.jpg */,
+				F630803B1B8D210D00325E51 /* airport10.png */,
+			);
+			name = icons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +236,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F63080441B8DF04E00325E51 /* CustomButton.xib in Resources */,
 				F630801D1B8D0C7B00325E51 /* Main.storyboard in Resources */,
 				F63080221B8D0C7B00325E51 /* LaunchScreen.xib in Resources */,
+				F63080481B8DF1B700325E51 /* arrow158-2.png in Resources */,
+				F63080521B8E251C00325E51 /* restaurant66.png in Resources */,
+				F630804A1B8E17DA00325E51 /* DetailSnippet.xib in Resources */,
+				F630803C1B8D210D00325E51 /* airport10.png in Resources */,
+				F63080401B8D4FB800325E51 /* clock97.png in Resources */,
+				F63080501B8E23FC00325E51 /* 025d15ac-9c17-4ef6-9931-26cd3d9dde50.png in Resources */,
 				F630801F1B8D0C7B00325E51 /* Images.xcassets in Resources */,
+				F63080381B8D10B900325E51 /* FlightSnippet.xib in Resources */,
+				F630803E1B8D262300325E51 /* rsz_canadian-airlines.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +265,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F63080421B8DF03A00325E51 /* CustomButton.swift in Sources */,
+				F630803A1B8D14EF00325E51 /* FlightSnippet.swift in Sources */,
 				F630801A1B8D0C7B00325E51 /* ViewController.swift in Sources */,
 				F63080181B8D0C7B00325E51 /* AppDelegate.swift in Sources */,
+				F630804C1B8E1E6800325E51 /* DetailSnippet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
